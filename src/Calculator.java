@@ -5,8 +5,7 @@ public class Calculator {
     }
 
     public static double subtract(double num1, double num2){
-        double return = num1-num2;
-        return result;
+        return = num1-num2;
     }
     
     public static double multiply(double num1, double num2){
